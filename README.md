@@ -1,1 +1,1 @@
-# msm
+# MSM - Multi-Store Management
